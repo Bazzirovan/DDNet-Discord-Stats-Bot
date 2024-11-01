@@ -53,9 +53,7 @@ This is a Discord bot that retrieves and displays player statistics for the game
 3. **Use the `/stats` command** in Discord to retrieve player statistics. For example:
 
    ```
-   /stats name: <PlayerName>
+   /stats <PlayerName>
    ```
 
    This command will return the player's statistics along with a pie chart showing the distribution of time spent in different game modes.
-
-```
