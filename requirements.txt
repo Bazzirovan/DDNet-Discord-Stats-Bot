@@ -1,0 +1,4 @@
+disnake
+aiohttp
+matplotlib
+python-dotenv
