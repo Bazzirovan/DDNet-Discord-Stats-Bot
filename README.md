@@ -1,4 +1,4 @@
-# Discord Game Stats Bot
+# Discord DDNet Stats Bot
 
 This is a Discord bot that retrieves and displays player statistics for the game DDNet (Dexter's DDrace Network). It allows users to view detailed statistics about their gameplay, including time spent in different game modes and overall points, and visualizes this data in a pie chart.
 
