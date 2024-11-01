@@ -1,6 +1,3 @@
-Sure! Here's a sample README.md file for your Discord bot project that includes an overview, installation instructions, usage examples, and other relevant sections.
-
-```markdown
 # Discord Game Stats Bot
 
 This is a Discord bot that retrieves and displays player statistics for the game DDNet (Dexter's DDrace Network). It allows users to view detailed statistics about their gameplay, including time spent in different game modes and overall points, and visualizes this data in a pie chart.
@@ -14,7 +11,7 @@ This is a Discord bot that retrieves and displays player statistics for the game
 
 ## Prerequisites
 
-- Python 3.7 or higher
+- Python 3.11 or higher
 - A Discord bot token (create one via the [Discord Developer Portal](https://discord.com/developers/applications))
 - Install the required Python libraries:
   - `disnake`
